@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "omegak@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Blind Navigation",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/logo.png",
+                "menuIcon": true,
+                "name": "IMAGE_APP_LOGO",
+                "targetPlatforms": null,
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "BlindNav",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "691e2109-6769-45a2-9dae-b798130eedb4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "onlyShownOnCommunication": true,
+        "watchface": false
+    }
+}
